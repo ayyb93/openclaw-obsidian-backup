@@ -1,0 +1,12 @@
+.env
+*.key
+*.pem
+*.log
+node_modules/
+.n8n/credentials/
+ollama/models/
+.cache/
+*.tgz
+*.zip
+.DS_Store
+*.db
